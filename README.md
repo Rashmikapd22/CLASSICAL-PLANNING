@@ -1,4 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
+***NAME:RASSHMIKA PD***
+***ADM NUM:212224060211***
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
